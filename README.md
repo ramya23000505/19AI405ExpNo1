@@ -1,6 +1,7 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
 <h3>Date:</h3>
-
+<h4>RAMYA R</h4>
+<h4>Reg no: 21222320169</h4>
 <h3>AIM:</h3>
 <br>
 <p>To find the PEAS description for the given AI problem and develop an AI agent.</p>
@@ -38,10 +39,7 @@
 <p>Treat unhealthy patients in each room. And check for the unhealthy patients in random room</p>
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
-<br>
-<h4>RAMYA R</h4>
-<h4>Reg no: 21222320169</h4>
-</br>
+
 ## PROGRAM:
 
 ```
