@@ -1,6 +1,5 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: ABINAYA S</h3>
-<h3>Register Number: 212222230002</h3>
+<h3>Date:</h3>
 
 <h3>AIM:</h3>
 <br>
@@ -41,6 +40,8 @@
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
 ## PROGRAM:
+<h3>Name: RAMYA R</h3>
+<h3>Register Number: 212223230169</h3>
 ```
 import random
 import time
