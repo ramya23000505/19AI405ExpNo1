@@ -40,8 +40,7 @@
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
 ## PROGRAM:
-<h4>RAMYA R</h4>
-<h4>Reg no: 21222320169</h4>
+
 ```
 import random
 import time
