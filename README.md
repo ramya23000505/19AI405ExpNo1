@@ -38,12 +38,12 @@
 <p>Treat unhealthy patients in each room. And check for the unhealthy patients in random room</p>
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
-
-## PROGRAM:
 <br>
 <h4>RAMYA R</h4>
 <h4>Reg no: 21222320169</h4>
 </br>
+## PROGRAM:
+
 ```
 import random
 import time
